@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Formation_web_api.props" />
+</Project>
